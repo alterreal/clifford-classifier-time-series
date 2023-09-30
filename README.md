@@ -1,4 +1,4 @@
-#  $\mu C^{1}$ and $\mu C^{2}$: Geometric Algebra-based models for gesture recognition and time-series classification
+# and $\mu C^{2}$: Geometric Algebra-based models for gesture recognition and time-series classification
 $\mu C^{1}$ and $\mu C^{2}$ are two algorithms based on geometric algebra and nearest-neighbor classification (and inspired by stroke gesture recognition) which were originally designed for recognizing Sign Language gestures. In its original Matlab implementation, these algorithms computed high accuracies and achieved fast training and classification times on a custom Sign Language dataset (see the paper referenced in the end of this section).
 We are making our code (translated to Python) publicly available for reproducibility and so that researchers can also use these algorithms on their own time-series classification problems. We are also open to modifications to improve the code.
 
